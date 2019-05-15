@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://schemas.haulmont.com/cuba/window.xsd"
+        class="com.company.changefavicon.web.main.ExtAppMainWindow"
+        extends="/com/haulmont/cuba/web/app/mainwindow/mainwindow.xml"
+        messagesPack="com.company.changefavicon.web.main">
+    <dialogMode height="600"
+                width="800"/>
+    <layout/>
+</window>

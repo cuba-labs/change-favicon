@@ -1,0 +1,5 @@
+@import "hover-ext";
+
+@mixin com_company_changefavicon {
+  @include com_company_changefavicon-hover-ext;
+}
